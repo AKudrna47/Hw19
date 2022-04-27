@@ -1,46 +1,23 @@
-<section> 
-<div class="mySkills">=mySkills;
-<h1> 'My UX Skills' </h1>
-<div class="flex-container">=flexContainerdiv {
-    display: flex;
+.mySkills{}
+.flex-container{
+  display: flex;
     flex-direction: row-reverse;
-  } <div>  {
-     grid-area: My Area;
-  }
-  .grid-container (
-G    grid-template-areas: 'myArea myArea myArea myArea myArea';
+    grid-area: My Area;
+} 
+  .grid-container {
+    grid-template-areas: 'myArea myArea myArea myArea myArea';
 grid-template-rows: 300px 300px 300px 300px 300px;
 grid-template-columns: Ifr;
 }
-    <section>
-  )
-<div> <img>
-{ width: 100%
-border: 1px solid black;} = C:\Users\AKudr\OneDrive\Desktop\coding folder\UX_UI_HW_18\UI_UX_HW_17\images\.vscode\download (1).jpg  < width = 33%
+.workGrid{
 
- <div> { width: 100%} <h3> =<head> User research focuses on understanding user behaviors, needs, and motivations through interviews, surveys, usability evaluations and other forms of feedback methodologies. <head> width <div> = 33%
-<div>{width: 100%} <p> = <body>
- It is used to understand how people interact with products and evaluate whether design solutions meet their needs.<body> width = 33%
-<!--  My UX Skills section coded using CSS flex -->
-<section> <div class='myWork' ='My Work'>
-<h1> 'My Work' </h1> 
-<div class='workGrid'> 
-<div> <img> = /* image 8 */; <div>
-
-position: absolute;
-width: 202px;
-height: 175px;
-left: 132px;
-top: 194px;
-
-background: url(image.png);
-border: 5px solid #FF0606;
-box-sizing: border-box; 
-<div> <h4> <p> <button> 
-<h3> 'View All Projects';
-</div> @media only screen and (max-width: 600px) { 
-  body { display: flex;
-    flex-direction: row-reverse;
-    background-color: lightblue; 
-  }
+  position: absolute;
+  width: 202px;
+  height: 175px;
+  left: 132px;
+  top: 194px;
+  
+  background: url(image.png);
+  border: 5px solid #FF0606;
+  box-sizing: border-box; 
 }
